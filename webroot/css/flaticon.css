@@ -1,0 +1,69 @@
+@font-face {
+	font-family: "Flaticon1";
+	src: url("../fonts/flaticon1.eot");
+	src: url("../fonts/flaticon1.eot#iefix") format("embedded-opentype"),
+	url("../fonts/flaticon1.woff") format("woff"),
+	url("../fonts/flaticon1.ttf") format("truetype"),
+	url("../fonts/flaticon1.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon1-"]:before, [class*=" flaticon1-"]:before,
+[class^="flaticon1-"]:after, [class*=" flaticon1-"]:after {   
+	font-family: Flaticon1;
+font-style: normal;
+
+}.flaticon1-cloud229:before {
+	content: "\e000";
+}
+.flaticon1-goal5:before {
+	content: "\e001";
+}
+.flaticon1-man316:before {
+	content: "\e002";
+}
+
+
+
+@font-face {
+	font-family: "Flaticon";
+	src: url("../fonts/flaticon.eot");
+	src: url("../fonts/flaticon.eot#iefix") format("embedded-opentype"),
+	url("../fonts/flaticon.woff") format("woff"),
+	url("../fonts/flaticon.ttf") format("truetype"),
+	url("../fonts/flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+	font-style: normal;
+}.flaticon-accessibility2:before {
+	content: "\e000";
+}
+.flaticon-baked3:before {
+	content: "\e001";
+}
+.flaticon-bread29:before {
+	content: "\e002";
+}
+.flaticon-connection28:before {
+	content: "\e003";
+}
+.flaticon-doorkey:before {
+	content: "\e004";
+}
+.flaticon-key21:before {
+	content: "\e005";
+}
+.flaticon-knife36:before {
+	content: "\e006";
+}
+.flaticon-pizzas4:before {
+	content: "\e007";
+}
+.flaticon-profile7:before {
+	content: "\e008";
+}
+

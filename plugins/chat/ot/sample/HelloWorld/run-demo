@@ -1,0 +1,14 @@
+#!/bin/sh
+
+if [ -z "$API_KEY" ] || [ -z "$API_SECRET" ]
+then
+  export API_KEY= 45342972
+  export API_SECRET= 802ad098cc7d3386c08a8461f5435d2f88121fc5
+fi
+
+if [ -d "cache" ]
+then
+  rm -rf cache/
+fi
+
+php -S localhost -t web web/index.php

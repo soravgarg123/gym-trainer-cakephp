@@ -1,0 +1,2060 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media (min-width:1700px){
+	.appointement_dashboard .responsive-calendar .day a {
+    margin: 8px;
+    width: 48px;
+    height: 48px;
+}
+	}
+@media (min-width:1400px){
+.cloud_text {
+  padding: 10px 10px 10px 45px;
+
+}
+.notification_wrap  li {
+  margin: 20px 25px 20px 0;
+  padding: 20px;
+
+}
+.location_wrap .percircle.small {
+  margin-left: 10px;
+}
+.notification_wrap .list_icon li {
+  margin: 0;
+  padding: 0;
+}
+.appointement_dashboard .appointement_sec .scroll_content {
+  height: 377px;
+}
+
+}
+@media (min-width:1200px){
+	.profile_field_title {width: 200px;}
+	.profile_field_des{ width:80%}
+	.rtrainee_img{ width:120px;}
+	.review_txt{ width:82%}
+	.trainer_img{ height:250px}
+	.percircle.small{font-size:38px;}
+.trainer_bottom span {
+  padding-right: 0px;
+
+}
+}
+
+
+
+@media (min-width:992px) and (max-width:1199px){
+  .pending_appointement .chat_box {
+  position: absolute;
+  right: -7px;
+  text-align: center;
+  top: 0;
+  width: 66px;
+}
+.chat_box > span {
+  font-size: 11px;
+}
+.big_icon.msg {
+  font-size: 30px;
+}
+.appointer_name {
+  font-size: 13px;
+  width: 135px;
+}
+.big_icon {
+  height: 40px;
+  width: 40px;
+}
+.mob_icon .text_block {
+  width: 185px !important;
+}
+.radio_box .radio_in {
+  padding: 0 3px 0 44px;
+}
+.pending_appointement .txt_block{ font-size: 11px;}
+	.mp_days { width: 86%;}
+	.profile_field_title {width: 180px;}
+	.profile_field_des { width: 78%;}
+	.rtrainee_img{ width:110px;}
+	.review_txt{ width:79%}	
+	.trainer_img{ height:230px}
+	.notification_wrap li {
+     width: 46%;
+}
+
+.appointe_box .calendor_caption {
+  padding-left: 5px;
+}
+.pref_box.pref_color2 > h4 {
+  font-size: 16px;
+}
+.pref_box {
+  padding: 27px 0;
+}
+.pref_color2 {
+  padding-bottom: 60px;
+}
+.preference_wrap ul li label {
+  font-size: 15px;
+}
+.appointe_box .responsive-calendar .day {
+  width: 14.286%;
+}
+.appointe_box .responsive-calendar .day a {
+  margin: 20.5px 5px;
+}
+.calendor_caption_box .session_content {
+  padding: 20px 15px 20px 20px;
+}
+
+.hide_map_btn {
+  right: -20px;
+}
+.interest_field .form-group {
+  margin-right: 18px;
+}
+.pop_over {
+  left: 46px;
+  padding: 4px;
+  top: -38px;
+  width: 209px;
+ 
+}
+.calendor_caption_box .scroll_content {
+    height: 380px;
+}
+.calendor_caption_box {
+    margin-top: 107px;
+}
+.pop_over > p {
+  color: #666;
+  font-size: 13px;
+  padding: 10px 5px;
+}
+.appointements_response_sec .text_block {
+  width: 205px;
+}
+.img_text_main > span {
+  font-size: 13px;
+}
+.text_event .img_text_main {
+  width: 68%;
+}
+.event_list .social_icon li {
+  height: 32px;
+  margin-right: inherit;
+  width: 32px;
+}
+.event_list li {
+  margin-right: 18px;
+  width: 48%;
+}
+.session_list li {
+  padding: 0;
+}
+.photo_list li {
+  width: 37%;
+}
+.notification_wrap .list_icon li { width:30px;
+}
+.notification_wrap li:nth-child(3n) {
+  margin-right: 20px;
+}
+.notification_wrap .list_icon li:nth-child(3n) {
+  margin-right: 0px;
+}
+
+.trainer_dashboard .notification_wrap li {
+     width: 46%;
+}
+.trainer_dashboard .notification_wrap .list_icon li { width:30px;
+}
+.trainer_dashboard .notification_wrap li:nth-child(3n) {
+  margin-right: 20px;
+}
+.trainer_dashboard .notification_wrap .list_icon li:nth-child(3n) {
+  margin-right: 0px;
+}
+.slide_text li:nth-child(3n) a {
+  width: 290px;
+}
+.ht_middle {
+  width: 39%;
+}
+.ht_right {
+  width: 54%;
+}
+.session_content .tab-content {
+  width: 84%;
+}
+.appointement_sec .scroll_content {
+  height: 350px;
+}
+.appointement_dashboard .responsive-calendar .day a {
+  margin: 7px;
+}
+.responsive-calendar .day {
+  width: 15.286%;
+}
+.cr_table_content tbody tr td {	
+  padding: 11px;
+
+}
+.visitor_map_progress {
+  padding: 30px 5px;
+
+}
+.agenda p {
+  padding-bottom: 15px;
+  padding-left: 20px;
+  padding-top: 10px;
+
+}
+.appointement_sec .icon_main {
+  padding-left: 10px;
+
+}
+.transaction_date_wrap .form-group {
+  width: 32%;
+}
+.transaction_date_wrap .form-group:first-child {
+  width: 32%;
+}
+.divider {
+  right: -25px;
+}
+.cr_table_head h2 {
+  font-size: 20px;
+  padding-top: 18px;
+}
+.describe_wrap{padding:2px;}
+.location_wrap li{padding:10px 4px 10px 2px;}
+.trainer_bottom span {
+  padding-right: 2px;
+
+
+}
+.location_wrap li{border-right:inherit;
+}
+.customer_report_main {
+  padding: 50px 0px;
+}
+.describe_wrap p {
+  width: 222px;
+  font-size:12px;
+}
+.session_wrap .responsive-calendar {
+
+  width: 65%;
+}
+.text_wrap .text_block {
+
+  width: 149px;
+}
+.text_block {
+
+  width: 155px;
+}
+.session_content {
+  padding: 20px 5px;
+}
+.plan_session_content li {
+  width: 28%;
+  margin-bottom: 15px;
+}
+.session_head {
+  font-size: 16px;
+}
+.price_session {
+  font-size: 16px;
+}
+.trainer_img img {
+  height: 230px !important;
+}
+.photo_video_list .img_29 > div {
+  max-width: 100%;
+}
+.trainee_img img {
+  max-height: 150px;
+}
+.pop_over {
+  left: 46px;
+  padding: 4px;
+  top: -38px;
+  width: 209px;
+ 
+}
+.pop_over > p {
+  color: #666;
+  font-size: 13px;
+  padding: 10px 5px;
+}
+.appointement_dashboard .appointement_sec .scroll_content {
+  height: 300px;
+}
+.score_box {
+  padding-left: 5px;
+}
+.ms_heading h2 {
+  font-size: 52px;
+}
+
+.calendor_switches_head a {
+  padding: 8px 8px 2px;
+}
+.calendor_caption_box .calendor_caption .checkbox {
+  width: 31.8%;
+}
+.chekbox_txt {
+  padding-left: 8px;
+
+}
+.calendor_caption_box .calendor_caption .checkbox {
+  width: 48.8%;
+}
+.calendor_switches_wrap:nth-child(2) {
+  margin-left: 8px;
+}
+}
+	
+	
+	
+@media (min-width:768px) and (max-width:991px){
+    
+    .calendor_switches_head a {
+  font-size: 12px;
+  padding: 8px;
+}
+.pref_box.pref_color2 > ul {
+  padding-left: 50px;
+}
+.appointe_box .responsive-calendar .day {
+  width: 14.286%;
+}
+.pref_color2 {
+  padding-bottom: 59px;
+}
+.calendor_switches_wrap:nth-child(2) {
+  margin-left: 0px;
+}
+.session_list li h3{padding:4px;}
+#set_availability .calendor_caption_box {
+  margin-top: 10px;
+}
+.calendor_switches_wrap {
+    width: 100%;
+}
+.calendor_caption_box .calendor_caption .checkbox {
+  width: 48.8%;
+}
+.photo_input_box {
+  width: 31%;
+}
+
+#trainer_form .responsive-calendar .day a {
+  margin: 12px;
+  padding: 13% 0;
+}
+    .cloud_text {
+  font-size: 14px;
+ 
+ 
+}
+.beta_logo {
+  left: -64px;
+}
+.trainer_profile_wrap {
+  padding: 15px 20px;
+}
+.ser_txt {
+  text-align: center;
+}
+.ser_img {
+  display: inline-block;
+  float: none;
+}
+.services_body ul li {
+  text-align: center;
+  width: 32% !important;
+}
+.services_body {
+  text-align: center;
+}
+.ms_center {
+  padding-top: 7rem;
+}
+.ms_body {
+  font-size: 28px;
+}
+.ms_body h3 {
+  font-size: 30px;
+}
+.ms_heading h2 {
+  font-size: 38px;
+}
+.services_body ul li:nth-child(3) .ser_txt {
+  width: 75%;
+}
+.ser_txt {
+  width: 80%;
+}
+.sec_heading h1 {
+  font-size: 34px;
+
+}
+.carousel-caption h2 {
+  font-size: 36px;
+}
+.lnews_block {
+  min-height: 340px;
+}
+.carousel-caption p {
+  font-size: 16px;
+}
+
+.banner_sec .carousel-caption{min-height: inherit !important;}
+.trainer_banner .trainee_img img {
+  max-height: 100px;
+}
+.appointement_sec .main_block .text_block {
+  width: 120px;
+}
+#location_model .modal-dialog {
+  width: 700px;
+}
+.trainee_streams li a {
+  padding: 5px 4px;
+}
+.photo_gallery_list li {
+  width: 31%;
+}
+.trainer_img img {
+  height: 230px !important;
+}
+.price_session {
+  font-size: 16px;
+}
+.session_slider .item {
+  width: 46%;
+}
+.session_head {
+  font-size: 16px;
+}
+.plan_session_content li {
+  display: inline-block;
+  margin-bottom: 15px;
+  width: 42%;
+}
+.common_btn > button{font-size: 14px;}
+.text_event p {
+  font-size: 13px;
+}
+.cloud{line-height: 70px;}
+.icon_star{line-height: 23px;}
+.text_event {
+  padding-top: 0;
+  padding-left: 6px;
+}
+.appointements_response_sec .text_block {
+  width: 186px;
+}
+.img_text_main {
+  width: 75%;
+}
+.img_text_main > span {
+  font-size: 13px;
+}
+.text_event .img_text_main {
+  width: 64%;
+}
+
+.event_list .social_icon li {
+  height: 25px;
+  margin-right: inherit;
+  width: 25px;
+}
+.event_list li {
+  margin-right: 4px;
+  width: 49%;
+}
+.photo_list div {
+  max-width: 100%;
+}
+.photo_list li {
+  width: 48%;
+}
+.order_list li a {
+  font-size: 13px;
+  padding: 4px;
+ 
+}
+.order_list li {
+  padding: 0;
+}
+.quotes_slider {
+  padding: 51px 10px 40px;
+}
+.trainer_review .rtrainee_img {
+  padding-right: 10px;
+  width: 69px;
+}
+.review_txt h4 {
+  font-size: 14px;
+}
+.panel_block_heading.review_heading > h3 {
+  font-size: 18px;
+}
+.order_list li p {
+  width: 70px;
+  height: 36px;
+}
+.trainee_social_link li a {
+  font-size: 18px;
+  line-height: 34px;
+  
+}
+.appointement_dashboard .appointement_sec .scroll_content {
+  height: 220px;
+}
+.appointement_head .gray_color {
+  right: 13px;
+  top: 0;
+}
+.appointements_page {
+  min-height: 600px;
+}
+.appointements_page .responsive-calendar .day a {
+  height: 30px;
+  width: 30px;
+  margin: 4px;
+}
+.appointement_sec .scroll_content {
+  height: 220px;
+}
+.appointement_head {
+  font-size: 14px;
+  text-align: left;
+}
+.appointement_head .gray_color {
+  line-height: 30px;
+}
+.search_wrap button {
+  font-size: 18px;
+  padding: 6px 15px;
+}
+.wallet_pay .form-group {
+  width: 49%;
+}
+.price_box_content li {
+  font-size: 13px;
+}
+.session_wrap .chekbox_txt {
+  padding-left: 0;
+}
+.session_wrap .responsive-calendar .day a {
+  color: #000000;
+  cursor: pointer;
+  display: block;
+  height: 30px;
+  line-height: 20px;
+  margin: 4px;
+  padding: 15% 0;
+  width: 30px;
+  font-size: 13px;
+}
+.responsive-calendar .day {
+  font-size: 12px;
+
+}
+
+.session_wrap .responsive-calendar {
+  width: 65%;
+}
+.session_wrap .calendor_caption {
+  width: 115px;
+  height:214px;
+ }
+ .price_box {
+  margin-top: 10px;
+}
+ .session_wrap .responsive-calendar {
+
+  padding: 10px 5px;
+
+}
+#booking_session_form .right_session_bar {
+  height: 545px;
+}
+#booking_session_form .scroll_content {
+  height: 214px;
+  padding: 0;
+}
+
+.text_wrap .text_block {
+
+  width: 115px;
+}
+.text_block {
+
+  width: 120px;
+}
+.session_block {
+  margin-top: 15px;
+  padding: 0 1px;
+}
+.session_content {
+  padding: 20px 5px;
+}
+	.mainmenu_nav li a{ padding:0 10px;}
+	.mp_types{ width:90px;}
+	.mp_days {width: 85%;}
+	.profile_field_title {width: 180px;}
+	.profile_field_des { width:70%;}
+	.rtrainee_img{ width:100px;}
+	.review_txt{ width:75%}	
+	.trainer_img{ height:210px}
+	.slide_text li:nth-child(3n) a {
+  width:189px;
+}
+.describe_wrap p {
+  font-size: 12px;
+ 
+}
+.ht_middle {
+  width: 34%;
+}
+.ht_right {
+  width: 58%;
+}
+.ht_right li {
+  padding-right: 15px;
+}
+.ht_right li:first-child {
+  width: 155px;
+}
+.trainer_dashboard .notification_wrap .list_icon li { width:30px;
+}
+.trainer_dashboard .notification_wrap li:nth-child(3n) {
+  margin-right: 10px;
+}
+.trainer_dashboard .notification_wrap .list_icon li:nth-child(3n) {
+  margin-right: 0px;
+}
+.trainer_dashboard .notification_wrap li {
+  margin-right: 10px;
+  width: 48%;
+}
+
+.session_content .tab-content {
+  overflow-y: scroll;
+  width: 585px;
+}
+.location_wrap li{border-right:inherit;}
+.location_wrap li:last-child {
+  border: inherit;
+  padding: 0 0 0 7px;
+}
+.describe_wrap {
+  padding: 4px;
+}
+.cr_table_content tbody tr td {	
+  padding: 5px;
+
+}
+.visitor_map_progress {
+  padding: 30px 5px;
+
+}
+.agenda p {
+  padding-bottom: 15px;
+  padding-left: 20px;
+  padding-top: 10px;
+
+}
+.appointement_sec .icon_main {
+  padding-left: 10px;
+
+}
+.notification_wrap .list_icon li { width:30px;
+}
+.notification_wrap li:nth-child(3n) {
+  margin-right: 10px;
+}
+.notification_wrap .list_icon li:nth-child(3n) {
+  margin-right: 0px;
+}
+.notification_wrap li {
+  margin-right: 10px;
+  width: 48%;
+}
+
+.appointement_head {
+  font-size: 18px;
+}
+.appointement_dashboard .responsive-calendar .day a {
+  margin: 4px;
+}
+.responsive-calendar .day {
+  width: 15.286%;
+}
+.calendor_content .session_content {
+  padding: 2px 0;
+}
+.prev_btn {
+  margin: 0;
+  padding: 2px 10px;
+}
+.responsive-calendar .controls h4 {
+  font-size: 14px;
+}
+.button_box {
+  max-width: 80%;
+  padding-bottom: 10px;
+}
+.next_btn {
+  padding: 2px 10px;
+}
+.big_icon {
+  font-size: 17px;
+  height: 30px;
+  line-height: 32px;
+  width: 30px;
+}
+.mCSB_inside > .mCSB_container {
+  margin-right: 13px;
+}
+.appointer_name {
+  font-size: 13px;
+}
+.appointement_sec .session_content {
+  padding: 20px 3px 20px 5px;
+}
+.appointement_sec .icon_main {
+  padding-left: 1px;
+}
+.visitor_map_progress {
+  width: 34%;
+}
+#chartdiv {
+  width: 100%;
+}
+.agenda .session_content {
+  padding: 20px 5px;
+}
+.agenda p {
+  font-size: 12px;
+}
+.transaction_date_wrap .form-group {
+  width: 30%;
+}
+.transaction_date_wrap .form-group:first-child {
+  width: 38%;
+}
+.divider {
+  right: -23px;
+}
+.cr_table_head h2 {
+  font-size: 17px;
+  padding-top: 20px;
+}
+.session_setails_sec .session_content {
+  padding: 20px 8px;
+}
+.heading_payment_main h2 {
+  font-size: 18px;
+}
+.trainer_report_main .transaction_date_wrap.year_wrap .form-group:nth-child(2n+1) {
+  width: 11%;
+}
+.trainer_report_main .transaction_date_wrap label {
+  padding: 0 6px 0 32px;
+}
+.trainer_report_main .transaction_date_wrap .form-group {
+  width: 21%;
+}
+.session_list li {
+  padding: 0;
+}
+.session_list li a {
+  font-size: 12px;
+
+}
+.trainee_streams li, .trainee_social_link li {
+  margin: 1px;
+}
+.trainee_img img {
+  max-height:inherit;
+}
+.trainee_tabs_sect h3{font-size: 20px;}
+.photo_video_list .img_29 > div {
+  max-width: 100%;
+}
+.photo_video_list li {
+  width: 31%;
+}
+.icon_tip {
+  font-size: 9px;
+  height: 14px;
+  line-height: 14px;
+  right: 12px;
+  width: 14px;
+}
+.agenda_icon {
+  left: 5px;
+}
+.rate_box {
+  font-size: 30px;
+}
+.pop_over {
+  left: 46px;
+  padding: 4px;
+  top: -38px;
+  width: 209px;
+ 
+}
+.pop_over > p {
+  color: #666;
+  font-size: 13px;
+  padding: 10px 5px;
+}
+.appointement_sec .text_block {
+  font-size: 12px;
+}
+.photo_video_list ul li {
+  margin: 12px 4px;
+}
+.responsive-calendar .controls {
+  margin-bottom: 9px;
+  text-align: center;
+}
+.right_session_content {
+  height: 495px;
+}
+
+.calendor_caption_box {
+    margin-top: 107px;
+}
+.calendor_caption_box .scroll_content {
+    height: 364px;
+}
+.interest_field .form-group {
+  margin-right: 15px;
+}
+.hide_map_btn {
+    padding: 6px 10px !important;
+    right: -10px;
+   
+}
+.cs_head_left:nth-child(2) {
+    text-align: center;
+}
+.view_btn_main{text-align: left;}
+.text_block1 {
+  width: 100px !important;
+}
+.pending_appointement .chat_box {
+  position: absolute;
+  right: -8px;
+  text-align: center;
+  top: 0;
+  width: 63px;
+}
+.big_icon.msg {
+  font-size: 31px;
+}
+.appointer_name{width: 110px; padding-top: 0px;}
+.mob_icon .text_block {
+  width: 114px !important;
+}
+.mob_icon .client_name {
+  bottom: auto;
+  left: -1px;
+  position: absolute;
+  top: 34px;
+}
+.mob_icon .appointer_name {
+  width: 140px;
+}
+.txt_block {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.radio_box {
+  padding-left: 0;
+}
+.radio_box .radio_in {
+  padding: 5px 3px 0 45px;
+ }
+ .radio_box label {
+  font-size: 11px;
+}
+
+
+
+}
+	
+@media (min-width:768px){
+	.mainmenu_nav li{ display:inline-block; vertical-align:middle;}
+	.profile_field_title {float: left;text-align: right;}
+	.profile_field_des {
+	  float: right;
+	  padding-right: 10px;
+	  border-bottom:1px solid #dddddd;
+	  padding-bottom:15px;
+	}
+	.trainer_profile_wrap li:last-child .profile_field_des{ border-bottom:none;}
+	.rtrainee_img {float: left; text-align:center;}
+	.review_txt {float: right;}
+	.trainer_search{width:70%;} 
+	
+	}
+	
+@media (max-width:767px){
+  .mob_icon .text_block {
+  width: 190px !important;
+}
+.mob_icon .main_block {
+  width: 100%;
+}
+  .text_area .form-control{width: 65%;}
+	.trainer_profile_wrap{ padding:10px;}
+	.review_txt h4{ padding:5px 0;}
+	.trainer_search{width:95%;} 
+	.trainer_img{ height:240px}
+	.trainer_sec{ max-width:250px; margin:0 auto 10px;}
+	.ht_left {
+     width: 39px;
+     padding-top: 10px;
+}
+.visitor_map {
+  background-color: #eee;
+  border-radius: 6px;
+  min-height: 223px;
+  padding-top: 20px;
+}
+.pref_color2 {
+  padding-bottom: 52px;
+}
+.table > tbody > tr > td, .table > tbody > tr > th, .table > tfoot > tr > td, .table > tfoot > tr > th, .table > thead > tr > td, .table > thead > tr > th {
+  min-width: 172px;
+
+}
+.trainee_detail {
+  margin-top: 15px;
+}
+.pbbl_txt {
+    padding-left: 10px;
+    width: 75%;
+}
+.interest_field .form-group {
+  margin-right: 8px;
+
+}
+.view_btn_main{text-align: left;}
+.cs_head_left:nth-child(2) {
+    text-align: center;
+}
+
+.switch_button li a {
+  padding: 10px 20px 6px;
+}
+.calendor_switches_head a {
+  padding: 3px;
+}
+.calendor_switches_wrap .session_content{ padding:20px 2px;}
+.photo_input_box {
+  width: 46%;
+}
+.ht_right li:nth-child(2) .dropdown-menu {
+  left: -56px !important;
+}
+.ht_right li:nth-child(2) .dropdown-menu {
+  width: 315px;
+}
+.ht_right li .dropdown-menu::after {
+  left: 19%;
+}
+.ht_right li:nth-child(3) .dropdown-menu {
+  left: -24px  !important;
+}
+.ht_right li:nth-child(3) .dropdown-menu {
+    left: -90px !important;
+}
+.ht_right li:nth-child(3) .dropdown-menu {
+    width: 312px;
+}
+.ht_right li:nth-child(3) .dropdown-menu::after {
+  left: 32%;
+}
+.notification {
+  top: 25px;
+}
+.hide_map_btn {
+  right: 15px;
+}
+.calendor_switches_head a {
+  padding: 6px;
+}
+.chekbox_txt {
+  padding-left: 13px;
+}
+.beta_logo {
+  left: -37px;
+}
+.main_nav .navbar-brand {
+  height: auto;
+  max-width: 255px;
+  padding: 16px 15px 20px 50px;
+}
+.navbar-toggle .icon-bar {
+  background-color: #fff;
+}
+.carousel-caption h2 {
+  font-size: 26px;
+}
+.hiw_left {
+  padding-top: 0;
+}
+.trainer1 {
+  margin-bottom: 15px;
+  margin-top: 10px;
+  font-size: 20px;
+  line-height: 16px;
+}
+.searvices_heading h2 {
+  font-size: 28px;
+  padding: 10px 0 5px;
+}
+.ser_txt {
+  float: none;
+  text-align: center;
+  width: 100%;
+}
+.services_body {
+  text-align: center;
+}
+.ser_img {
+  display: inline-block;
+  float: none;
+  
+}
+.services_body ul li:nth-child(2) {
+  width: 49%;
+}
+.services_body ul li:nth-child(1) {
+  padding-left: 0;
+  width: 49%;
+}
+.services_body ul li:nth-child(3) {
+  width: 49%;
+}
+.services_body ul li {
+  width: 49%;
+}
+.services_body ul li:nth-child(3) .ser_txt {
+  width: 100%;
+}
+.ser_txt h3 {
+  font-size: 20px;
+}
+.ms_left img {
+  margin: 0 auto;
+  max-width: 65%;
+}
+.testi_txt p {
+  font-size: 16px;
+}
+.testimonial_carousel {
+  padding: 6rem 0;
+}
+.contact_block {
+  padding: 0 20px 20px;
+}
+.ms_center {
+  padding-top: 0;
+}
+.cb_heading h1 {
+  font-size: 26px;
+}
+.cb_row .form-group {
+  width: 100%;
+}
+.ms_body h3 {
+  font-size: 22px;
+}
+.sec_body p {
+  padding: 5px 0;
+}
+.ms_heading h2 {
+  font-size: 30px;
+}
+.ms_right img {
+  margin: 0 auto;
+  max-width: 65%;
+}
+.hiw_right img {
+  max-width: 90%;
+}
+.sec_heading h1 {
+  font-size: 26px;
+}
+.sec_body {
+  font-size: 16px;
+}
+.banner_sec .carousel-caption {
+  padding: 15rem 0 10rem;
+}
+.lnews_block {
+  margin-bottom: 30px;
+  min-height: 360px;
+}
+.ln_body {
+  padding-top: 0;
+}
+.carousel-caption p {
+  font-size: 14px;
+  width: 100%;
+}
+.photo_video_list ul li {
+  width: 100%;
+}
+.custom_model .text_block {
+  font-size: 12px;
+  padding-left: 5px;
+  width: 90px;
+}
+.trainee_img {
+  height: 197px;
+}
+#Modify_Event .modal-dialog {
+  width: 100%;
+}
+.custom_model .session_content li {
+  padding-left: 20px;
+
+}
+.custom_model .icon_main {
+  width: 49%;
+}
+.pop_over {
+  left: 46px;
+  padding: 4px;
+  top: -38px;
+  width: 158px;
+ 
+}
+.custom_model .img_text_main {
+  width: 68%;
+}
+.pop_over .btn_okay{padding: 5px;}
+.pop_over > p {
+  color: #666;
+  font-size: 12px;
+  padding: 5px;
+}
+#location_model .modal-dialog {
+  width: 95%;
+}
+#location_model .modal-title {
+  font-size: 20px;
+}
+.table_meal .table > tbody > tr > td, .table_meal .table > tbody > tr > th, .table_meal .table > tfoot > tr > td, .table_meal .table > tfoot > tr > th, .table_meal .table > thead > tr > td, .table_meal .table > thead > tr > th {
+  padding: 5px;
+}
+.cr_table_content tbody tr td {
+  font-size: 14px;
+}
+.photo_gallery_list li {
+  width: 46%;
+}
+.photo_video_list .img_29 > div {
+  max-width: 100%;
+}
+.plan_session_content li {
+  margin-bottom: 15px;
+  width: 49%;
+}
+.plan_session_content {
+  text-align: center;
+}
+.session_main {
+  display: inline-block;
+}
+.trainee_tab_content {
+  margin-top: 20px;
+  padding: 5px;
+}
+#paypal .form-control {
+  margin-left: 0;
+}
+.tai_sub_tab li a {
+  font-size: 12px;
+  padding: 8px 1px;
+}
+.event_list li:nth-child(3n) {
+  padding-bottom: 20px;
+}
+.appointements_response_sec .main_block {
+  width: 100%;
+}
+.event_list li {
+  margin-right: 0;
+  width: 100%;
+}
+.trainer_banner .trainee_img {
+  padding-top: 8rem;
+ 
+}
+.photo_post_list ul li {
+  margin: 12px 2px;
+  width: 44.9%;
+}
+.trainee_social_link li a {
+  font-size: 18px;
+  line-height: 33px;
+}
+.trainee_img a {
+  display: inline-block;
+}
+.trainer_banner {
+  margin: 0 auto;
+  padding:5px;
+}
+.trainee_streams li a {
+  padding: 5px;
+}
+.trainer_banner .trainee_detail {
+  display: inline-block;
+  float: none;
+  margin: 5px auto;
+  width: inherit;
+}
+.trainer_banner .trainee_img {
+  float: none;
+  margin: 0 auto;
+  width: 100%;
+  height:auto;
+}
+.img_text_main {
+  width: 65%;
+}
+.social_icon li {
+  border-bottom: inherit;
+  height: 30px;
+  margin-right: 0;
+  width: 30px;
+}
+.appointements_response_sec .icon_main {
+  width: 100%;
+}
+.appointements_response_sec .text_block {
+  width: 200px;
+}
+.trainer_top_row li .dropdown-menu {
+  left: -59px;
+  position: absolute;
+}
+.text_event .img_text_main {
+  width: 70%;
+}
+.img_text_main > span {
+  font-size: 13px;
+}
+.quotes_slider {
+  padding: 51px 10px 65px 20px;
+}
+.order_list li p {
+  width: 70px;
+}
+.order_list li a {
+  font-size: 12px;
+}
+.slide_text li:nth-child(3n) a {
+  width: 290px;
+}
+.session_wrap .responsive-calendar .day a {
+  line-height: 10px;
+}
+.ht_middle {
+  width: 5%;
+  display:inline-block;
+}
+.ht_right li:first-child {
+  margin: 10px 0;
+  width: 100%;
+}
+.ht_right {
+  text-align: center;
+  width: 78%;
+}
+.customer_report_main {
+  padding: 50px 0px;
+}
+.notification_wrap li {
+  margin: 10px 10px 10px 0;
+  min-height: 213px;
+  padding: 5px;
+  text-align: center;
+  vertical-align: top;
+  width: 47%;
+}
+.notification_wrap li:nth-child(3n) {
+  margin-right: 10px;
+}
+.trainer_dashboard .notification_wrap li {
+  margin: 10px 10px 10px 0;
+  min-height: 200px;
+  padding: 5px;
+  text-align: center;
+  vertical-align: top;
+  width: 47%;
+}
+.trainer_dashboard .notification_wrap li:nth-child(3n) {
+  margin-right: 10px;
+}
+.cloud_text {
+  display: block;
+  font-size: 14px;
+  padding: 10px 10px 10px 2px;
+  vertical-align: top;
+}
+.cloud_text > span {
+  display: block;
+  text-align: center;
+}
+.notification_wrap .list_icon li {
+  min-height: inherit;
+  width:30px;
+  margin:inherit;
+  line-height:20px;
+
+}
+.trainer_dashboard .notification_wrap .list_icon li {
+  min-height: inherit;
+  width:30px;
+  margin:inherit;
+  line-height:20px;
+
+}
+.session_content .nav_tabs {
+  display: inline-block;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  width: 100%;
+}
+.session_content .tab-content {
+  overflow: scroll;
+}
+.meal_paln .session_content{overflow:hidden;}
+.session_content .nav_tabs > li {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+.work_out .nav_tabs li.active::after {
+  -moz-border-bottom-colors: none;
+  -moz-border-left-colors: none;
+  -moz-border-right-colors: none;
+  -moz-border-top-colors: none;
+  border-color: rgba(250, 82, 36, 0) rgba(250, 82, 36, 0) rgba(250, 82, 36, 0) #fa5224;
+  border-image: none;
+  border-style: solid;
+  border-width: 5px 8px;
+  content: " ";
+  height: 0;
+  left: 0;
+  margin-top: -11px;
+  pointer-events: none;
+  position: absolute;
+  top: 110%;
+  transform: rotate(208deg);
+  width: 0;
+}
+
+.message_wrap_content {
+  overflow: auto;
+  width: 100%;
+}
+.message_wrap_content .table{ width:700px; max-width:inherit;}
+.message_wrap_content_box li:first-child {
+  padding: 10px;
+}
+.resources_tab .nav-tabs > li > a{ font-size:14px; padding:10px 5px;}
+.text_resorces > p { padding-right:0px;
+
+}
+.text_resorces {
+  padding-top: 0;
+}
+.img_link {
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  text-align: center;
+  width: 300px;
+}
+.graph_list {
+  padding: 30px 20px 0;
+}
+.head_dashboard > h3 {
+  font-size: 18px;
+}
+.head_dashboard p {
+  font-size: 15px;
+  padding-bottom: 10px;
+}
+.trainer_wrap_main {
+  text-align: center;
+}
+.trainer_wrap_box {
+  display: inline-block;
+}
+.heading_payment_main h2 {
+  font-size: 20px;
+}
+.describe_wrap {
+  text-align: left;
+}
+.visitor_map_progress {
+  width: 100%;
+}
+#chartdiv {
+  width: 100%;
+}
+.appointement_head {	
+  margin-top: 30px;
+
+}
+.agenda {
+  margin-top: 30px;
+}
+.cr_table_content tbody tr td {
+  padding: 10px;
+
+}
+.appointement_sec .icon_main {
+  padding-left: 20px;
+}
+.agenda p {
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+.mobile_view {
+  display: none;
+  position: absolute;
+  right: 22px;
+  top: -40px;
+}
+.mobile_search {
+  cursor: pointer;
+  font-size: 20px;
+  position: absolute;
+  right: -5px;
+  top: -33px;
+  display:block;
+  color: #fff;
+}
+.ht_right .input-group-addon{display:none;}
+.ht_right .form-control {
+  border-radius: 3px !important;
+
+}
+.ht_right > ul {
+  line-height: 5px;
+}
+.ht_right li:first-child { margin:0px;
+}
+.ht_right a {
+  color: #c4c4c4;
+  font-size: 20px;
+}
+.icon_tip {
+  font-size: 9px;
+  height: 14px;
+  width: 14px;
+}
+.trainer_dashboard .cloud_text {
+  float: right;
+  font-size: 26px;
+  line-height: 50px;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-top: 13px;
+}
+.trainer_dashboard .rate_box {
+  font-size: 22px;
+  line-height: 18px;
+}
+#leftNavMenu {
+  width: 250px;
+}
+.inner_header {
+  padding: 2px 0;
+}
+.appointement_dashboard .responsive-calendar .day a {
+  margin: 5px;
+  line-height:25px;
+}
+.responsive-calendar .day a {
+  height: 35px;
+  line-height: 12px;
+  width: 35px;
+}
+.agenda .session_content {
+  min-height: 225px;
+}
+.transaction_date_wrap .form-group:first-child {
+  width: 80%;
+}
+.transaction_date_wrap .form-group {
+  width: 80%;
+}
+.divider {
+  left: 0;
+  margin: 0 auto;
+  position: absolute;
+  right: 0;
+  top: 39px;
+}
+.transaction_date_wrap .form-group:nth-child(2n){ margin-bottom:40px;}
+.transaction_date_wrap label {
+  padding: 0 0 0 45px;
+  text-align: left;
+}
+.transaction_date_wrap {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.cr_table_content {
+  overflow: auto;
+}
+.cr_table_head h2 {
+  font-size: 16px;
+  padding-bottom: 15px;
+  text-align: center;
+}
+.cr_table_content .table {
+  margin-bottom: 20px;
+  max-width: inherit;
+  width: 700px;
+}
+.statement_button button {
+  margin-right: 10px;
+  padding: 5px 22px;
+  font-size:14px;
+
+}
+.wallet_balance {
+  margin-top: 30px;
+}
+.list_table_icon {
+  text-align: center;
+}
+.trainer_earning .session_content {
+  text-align: center;
+}
+.trainer_report_main .transaction_date_wrap .form-group:first-child {
+  float: left;
+}
+.trainer_report_main .transaction_date_wrap .form-group:second-child {
+	margin-bottom:30px;
+
+}
+.transaction_date_wrap .divider {
+  text-align: center;
+
+}
+.trainer_report_main .transaction_date_wrap .form-group {
+  width: 74%;
+}
+.customer_report_table_sec .cr_table_content .table {
+  margin: 20px auto;
+  max-width: inherit;
+  width: 300px;
+}
+.message_wrap_head .pagination > li:first-child {
+  display: block;
+  margin-bottom: 10px;
+  margin-left: 5px;
+  margin-top: 7px;
+}
+#chartdiv {
+  display: inline-block;
+  height: 200px;
+
+}
+.visitor_map_progress .progress_bar {
+  margin-bottom: 10px;
+}
+.customer_report_main {
+  padding: 15px 0;
+  margin: 0px;
+}
+.text_block {
+  font-size: 13px;
+  padding-left: 5px;
+  width: 155px;
+}
+.text_wrap .text_block {
+  font-size: 13px;
+  padding-left: 5px;
+  width: 155px;
+}
+#booking_session_form .right_session_bar {
+  margin-top: 10px;
+}
+.wallet_pay .payment_method {
+  width: 100%;
+}
+.wallet_pay .form-group {
+  width: 100%;
+}
+.payment_field span {
+  display: block;
+}
+.appointement_head {
+  font-size: 15px;
+}
+.appointement_head .gray_color {
+  line-height: 37px;
+}
+.appointements_page .responsive-calendar .day a {
+  line-height: 21px;
+  margin: 8px 0px;
+  padding: 15% 0;
+}	
+.photo_list div {
+  max-width: 100%;
+}
+.payment_details .text_block {
+  font-size: 12px;
+  width: 89px;
+}
+.main_block {
+  width: 49%;
+}
+.icon_main {
+  width: 49%;
+}
+.gym_favorite {
+  bottom: inherit;
+  position: absolute;
+  right: 0;
+  top: 100px;
+}
+.access_gym_form {
+  position: inherit;
+  width: 100%;
+}
+.access_map {
+  margin-top: 40px;
+}
+.access_gym_form > form {
+  width: 270px;
+}
+.pending_appointement .main_block {
+  width: 100%;
+}
+.ht_right li:nth-child(2) .dropdown-menu {
+  left: 0;
+  position: absolute;
+  z-index: 111;
+}
+.ht_right li:nth-child(3) .dropdown-menu{left: 0;
+  position: absolute;
+  z-index: 1111;}
+  .trainee_detail h1 {
+  font-size: 22px;
+}
+.trainee_detail h3 {
+  font-size: 18px;
+}
+.trainee_rank span{font-size: 16px;}
+.profile_btn_main a {
+  font-size: 14px;
+  margin-bottom: 10px;
+  padding: 5px;
+}
+.rate_box {
+  font-size: 30px;
+}
+.session_list li h3{min-width: 113px;}
+.trainer_review .rtrainee_img {
+  display: inline-block;
+  vertical-align: top;
+  width: 100px;
+}
+.trainer_review .review_txt {
+  display: inline-block;
+  width: 61%;
+}
+.trainee_streams li, .trainee_social_link li {
+  margin: 3px 2px 3px 1px;
+}
+.icon_star{line-height: 23px;}
+.degree_main {
+  font-size: 22px;
+}
+.trainer_dashboard .kilo_box {
+  font-size: 22px;
+}
+.trainer_dashboard .kilo_box > span {
+  font-size: 16px;
+}
+.rate_box {
+  font-size: 22px;
+}
+.session_content .tab-content {
+  width: 100%;
+}
+#booking_session_form .session_wrap .calendor_caption {
+  margin-bottom: 20px;
+}
+#booking_session_form .session_wrap .responsive-calendar .day a {
+  line-height: 0.5;
+}
+.session_list li {float: left; display: inherit;}
+.session_list{padding: 0px;}
+.calendor_switches_wrap {
+  width: 100%;
+}
+.calendor_caption_box .session_content {
+  padding: 20px 15px 20px 8px;
+}
+.calendor_caption_box {
+  margin-top: 20px;
+}
+.cs_head_left {
+  width: 30%;
+}
+.cs_head_left a span {
+  padding: 5px;
+}
+#trainer_form .responsive-calendar .day a {
+  line-height: 22px;
+  margin: 0px;
+}
+#load_data {
+  text-align: center;
+}
+#set_availability .calendor_caption_box {
+    margin-top: 10px;
+}
+.calendor_switches_wrap:nth-child(2) {
+  margin-left: 0px;
+}
+.session_block  .text_wrap .text_block {
+    width: 125px;
+	padding-left:20px;
+}
+#map-container {
+    height: 280px;
+}
+.signup_modal .modal-dialog {
+  height: 400px;
+  overflow: scroll;
+}
+.search_map_wrap {
+  height: 450px;
+}
+#leftNavMenu li a {
+    padding: 7px 15px;
+    font-size: 13px;
+}
+.img_trainer {
+    height: 80px;
+    width: 80px;
+}
+.search_map_wrap {
+    height: 350px;
+}
+.appointe_box .responsive-calendar .day a {
+  margin: 6px 5px;
+}
+.pref_box .pop_over {
+  left: -115px;
+  margin: 0 auto;
+  right: 26px;
+  top: 31px;
+  width: 275px;
+
+}
+.pref_box.pref_color2 > ul {
+  margin: 0 auto;
+  width: 250px;
+}
+.top_row h2 {
+  font-size: 13px;
+}
+.drop_box .dropdown-menu {
+  left: 0;
+}
+.head_row > h3 {
+  font-size: 18px;
+  font-weight: bold;
+  padding-bottom: 5px;
+}
+.head_row > p {
+  font-size: 13px;
+}
+.pop_over::after, .pop_over::before {
+  border: medium solid transparent;
+  content: " ";
+  height: 0;
+  pointer-events: none;
+  position: absolute;
+  right: 50%;
+  top: -12px;
+  transform: rotate(90deg);
+  width: 0;
+}
+.icon_main.block_icon {
+  left: auto;
+  position: absolute;
+  right: -6px;
+  text-align: right;
+}
+.mob_icon .big_icon{vertical-align: top;}
+.missed_appointement .client_name {
+    left: 9px;
+    top: 75px;
+}
+.radio_box .radio_in {
+    padding: 0 20px 0 48px;
+  }
+}	
+
+@media (min-width:480px) and (max-width:767px){
+
+.trainer_report_main .transaction_date_wrap {
+  text-align: right;
+}
+
+.trainer_report_main .transaction_date_wrap.year_wrap .form-group:nth-child(2n+1) {
+  width: 25%;
+}
+ .year_wrap .form-group:nth-child(2n) {
+  margin-bottom: 20px;
+}
+.session_wrap .responsive-calendar {
+  width: 65%;
+}
+.session_slider .item {
+  width: 49%;
+}
+.photo_video_list li {
+ 
+  width: 48%;
+}
+
+
+	
+}
+@media (max-width:480px){
+	.slide_text li:nth-child(3n) a {
+  width: 157px;
+}
+.pending_appointement .chat_box {
+  right: 0;
+  width: 88px;
+}
+.appointer_name {
+padding-top: 0px;
+  width: 122px;
+}
+.appointe_box .calendor_caption .checkbox {
+  width: 49%;
+}
+.big_icon.msg {
+  font-size: 24px;
+  margin-bottom: 0;
+  text-align: center;
+}
+.client_name {
+  left: 0;
+}
+.appointement_sec .icon_block {
+  position: relative;
+  vertical-align: top;
+  z-index: 11;
+}
+.big_icon {
+  height: 40px;
+  width: 40px;
+}
+.chat_box {
+  text-align: right;
+}
+.vew_details {
+  margin-right: 8px;
+ 
+}
+#appointment_modal1 .modal-dialog{width:100%;}
+.calendor_switches_head .cs_head_left:first-child {
+  width: 25%;
+}
+.chekbox_txt {
+  padding-left: 5px;
+}
+.unselect_all span {
+  padding: 0 !important;
+}
+.cs_head_left {
+  width: 32%;
+}
+.notification_wrap  li {
+  width: 100%;
+}
+.calendor_switches_head a {
+  padding: 4px;
+  font-size:12px;
+}
+.switch_button li a {
+  font-size: 12px;
+  padding: 5px 9px;
+}
+
+.calendor_caption_box .calendor_caption .checkbox {
+  width: 48%;
+}
+.appointement_sec .main_block {
+  width: 100%;
+}
+.appointement_sec .icon_main {
+  padding-left: 0;
+  width: 100%;
+}
+
+.trainer_dashboard .notification_wrap  li {
+  width: 100%;
+  min-height:145px;
+}
+.message_wrap_content_box li:last-child {
+  margin: 10px 0;
+  width: 100%;
+}
+.photo_video_list li {
+ 
+  width: 100%;
+}
+.resources_tab .nav-tabs > li {
+  display: block;
+  width: 100%;
+}
+.trainer_report_main .transaction_date_wrap {
+  text-align: center;
+}
+.trainer_report_main .transaction_date_wrap.year_wrap .form-group:nth-child(2n+1) {
+  float: left;
+}
+ .year_wrap .form-group:nth-child(2n) {
+  margin-bottom: 10px;
+}
+.trainer_report_main .transaction_date_wrap .form-group:first-child {
+  width: 50%;
+}
+.trainer_report_main .transaction_date_wrap .form-group {
+  width: 100%;
+ }
+.transaction_date_wrap .input-group {
+  width: 100%;
+}
+.year_wrap .form-group {
+  margin-bottom: 4px;
+}
+.session_wrap .calendor_caption .checkbox {
+  width: 49%;
+}
+.session_wrap .calendor_caption {
+margin-top: 0px;
+  width: 100%;
+}
+.session_wrap .responsive-calendar {
+  padding: 10px 0;
+  width: 100%;
+}
+.session_wrap .responsive-calendar .day a {
+  line-height: 0;
+}
+.button_box {
+  max-width: 100%;
+}
+.session_content {
+  padding: 20px 5px;
+}
+.mCSB_inside > .mCSB_container {
+  margin-right: 15px;
+}
+.session_block_content li {
+  text-align: center;
+}
+.price_box_content li {
+  font-size: 13px;
+}
+#code-btn {
+  width: 74px;
+}
+#paypal .form-control {
+  width: 100%;
+}
+.payment_card .nav > li > a {
+  padding: 5px 10px;
+}
+.payment_field {
+  padding: 8px;
+}
+.trainer_top_row ul li a {
+  font-size: 13px;
+  padding: 10px;
+}
+.withraw_amount .form-group {
+  vertical-align: top;
+  width: 49% !important;
+}
+.fa.fa-bars {
+  margin-top: 10px;
+}
+.wallet_pay .form-group {
+  margin-bottom: 5px;
+}
+.session_list li {
+  width: 49%;
+}
+.session_list li:nth-child(2) {
+  border: medium none;
+}
+.photo_list li {
+  width: 100%;
+}
+.trainer_dashboard .main_block {
+  width: 100%;
+}
+.trainer_dashboard .icon_main {
+  width: 100%;
+}
+.session_slider .item {
+  width: 90%;
+}
+.photo_gallery_list .weight_lbs {
+  font-size: 10px;
+  padding-top: 4px;
+}
+.photo_gallery_list .date_photo {
+  font-size: 10px;
+}
+.photo_upload_sect h5 {
+  font-size: 11px;
+}
+.photo_upload_sect span {
+  width: 110px;
+}
+#session_section .session_block_content li {
+    text-align: center;
+}
+#location_model .modal-footer button{ padding:6px 20px;}
+
+
+}

@@ -1,0 +1,7 @@
+[13-Apr-2016 11:06:53 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/virtuds6/public_html/dev/src/Controller/FrontsController.php on line 95
+[20-Apr-2016 14:44:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/virtuds6/public_html/dev/src/Controller/TraineesController.php on line 1215
+[20-Apr-2016 14:58:35 UTC] PHP Fatal error:  Call to undefined method App\Controller\TraineesController::request() in /home/virtuds6/public_html/dev/src/Controller/TraineesController.php on line 40
+[20-Apr-2016 14:59:06 UTC] PHP Fatal error:  Call to undefined method App\Controller\TraineesController::request() in /home/virtuds6/public_html/dev/src/Controller/TraineesController.php on line 40
+[20-Apr-2016 14:59:21 UTC] PHP Fatal error:  Call to undefined method App\Controller\TraineesController::request() in /home/virtuds6/public_html/dev/src/Controller/TraineesController.php on line 40
+[20-Apr-2016 15:02:39 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/virtuds6/public_html/dev/src/Controller/TraineesController.php on line 1958
+[20-Apr-2016 15:05:32 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/virtuds6/public_html/dev/src/Controller/TraineesController.php on line 246

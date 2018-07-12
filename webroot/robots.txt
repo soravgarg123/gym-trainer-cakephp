@@ -1,0 +1,6 @@
+﻿User-Agent: *
+Disallow: 
+
+
+
+Sitemap: https://virtualtrainr.com/sitemap.xml

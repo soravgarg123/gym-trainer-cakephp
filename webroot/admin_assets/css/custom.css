@@ -1,0 +1,597 @@
+
+/*=============================================================
+    Authour URI: www.binarycart.com
+    License: Commons Attribution 3.0
+
+    http://creativecommons.org/licenses/by/3.0/
+
+    100% To use For Personal And Commercial Use.
+    IN EXCHANGE JUST GIVE US CREDITS AND TELL YOUR FRIENDS ABOUT US
+   
+    ========================================================  */
+/*==============================================
+    GENERAL  STYLES    
+    =============================================*/
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+ #wrapper {
+    width: 100%;
+    background:#202020;
+}
+
+#page-wrapper {
+    padding: 15px 15px;
+    min-height: 600px;
+    background:#F3F3F3;
+   
+}
+#page-inner {
+    width:100%;
+    margin:10px 20px 10px 0px;
+    background-color:#fff!important;
+    padding:10px;
+    min-height:1200px;
+}
+
+.text-center {
+    text-align:center;
+}
+.no-boder {
+    border:1px solid #f3f3f3;
+}
+h2 {
+    color: #fd4239;
+}
+h4 {
+    padding-top:10px;
+}
+.square-btn-adjust {
+    border: 0px solid transparent; 
+   -webkit-border-radius: 0px;
+-moz-border-radius: 0px;
+border-radius: 0px;
+
+}
+p {
+    font-size:16px;
+    line-height:25px;
+    padding-top:20px;
+}
+/*==============================================
+   DASHBOARD STYLES    
+    =============================================*/
+.panel-back {
+    background-color:#F8F8F8;
+
+}
+   .noti-box {
+min-height: 100px;
+padding: 20px;
+}
+
+    .noti-box .icon-box {
+display: block;
+float: left;
+margin: 0 15px 10px 0;
+width: 70px;
+height: 70px;
+line-height: 75px;
+vertical-align: middle;
+text-align: center;
+font-size: 40px;
+}
+.text-box p{
+    margin: 0 0 3px;
+}
+.main-text {
+    font-size: 25px;
+    font-weight:600;
+}
+.set-icon {
+    -webkit-border-radius: 50px;
+-moz-border-radius: 50px;
+border-radius: 50px;
+
+}
+    .bg-color-green {
+background-color: #00CE6F;
+color: #fff;
+}
+ .bg-color-blue {
+background-color: #A95DF0;
+color: #fff;
+}
+  .bg-color-red {
+background-color: #DB0630;
+color: #fff;
+}
+  .bg-color-brown {
+background-color: #B94A00;
+color: #fff;
+}
+
+
+ .icon-box-right {
+display: block;
+float: right;
+margin: 0 15px 10px 0;
+width: 70px;
+height: 70px;
+line-height: 75px;
+vertical-align: middle;
+text-align: center;
+font-size: 40px;
+}
+
+ .main-temp-back {
+background: #8702A8;
+color: #FFFFFF;
+font-size: 16px;
+font-weight: 300;
+text-align: center;
+}
+ .main-temp-back .text-temp {
+font-size: 40px;
+}
+.back-dash {
+    padding:20px;
+    font-size:20px;
+    font-weight:500;
+      -webkit-border-radius: 0px;
+-moz-border-radius: 0px;
+border-radius: 0px;
+background-color:#2EA7EB;
+color:#fff;
+}
+    .back-dash p {
+        padding-top:16px;
+        font-size:13px;
+        color:#fff;
+        line-height:25px;
+        text-align:justify;
+    }
+    .back-footer-green {
+    background-color: #009B50;
+    border-top: 0px solid #fff;
+}
+     .back-footer-red {
+    background-color: #AF0000;
+    border-top: 0px solid #fff;
+}
+     .color-bottom-txt {
+   color: #000;
+font-size: 16px;
+line-height: 30px;
+}
+     /*CHAT PANEL*/
+ .chat-panel .panel-body {
+height: 450px;
+overflow-y: scroll;
+}
+ .chat-box {
+margin: 0;
+padding: 0;
+list-style: none;
+}
+ .chat-box li {
+margin-bottom: 15px;
+padding-bottom: 5px;
+border-bottom: 1px dotted #808080;
+}
+ .chat-box li.left .chat-body {
+margin-left: 90px;
+}
+ .chat-box li .chat-body p {
+margin: 0;
+color: #8d8888;
+}
+.chat-img>img {
+    margin-left:20px;
+}
+
+/*==============================================
+    MENU STYLES    
+    =============================================*/
+
+
+.user-image {
+    margin: 25px auto;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+max-height:170px;
+max-width:170px;
+}
+
+.navbar-cls-top .navbar-brand {
+	color: #fff;
+background: #fd4239;
+width: 260px;
+text-align: center;
+height: 60px;
+font-size: 30px;
+font-weight: 700;
+}
+.active-menu {
+    background-color:#fd4239 !important;
+}
+
+.arrow {
+    float: right;
+}
+
+.fa.arrow:before {
+    content: "\f104";
+}
+
+.active > a > .fa.arrow:before {
+    content: "\f107";
+}
+
+
+.nav-second-level li,
+.nav-third-level li {
+    border-bottom: none !important;
+}
+
+.nav-second-level li a {
+    padding-left: 37px;
+}
+
+.nav-third-level li a {
+    padding-left: 55px;
+}
+.sidebar-collapse , .sidebar-collapse .nav{
+	background:none;
+}
+.sidebar-collapse .nav {
+	padding:0;
+}
+.sidebar-collapse .nav > li > a {
+	color:#fff;
+	background:#202020;
+	text-shadow:none;
+	
+}
+.sidebar-collapse > .nav > li > a {
+	padding:15px 10px;
+}
+.sidebar-collapse > .nav > li {
+	border-bottom: 1px solid rgba(107, 108, 109, 0.19);
+}
+.sidebar-collapse .nav > li > a:hover,
+.sidebar-collapse .nav > li > a:focus {
+	
+	background:#0A0A0A;
+	outline:0;
+}
+
+.nav-second-level > li > a:before ,
+.nav-third-level > li > a:before {
+	content:"";
+	display:block;
+	position:absolute;
+	left:20px;
+	width:15px;
+	height:1px;
+	background:#ff0000;
+	top:20px;
+}
+.nav-second-level > li > a:after,
+.nav-third-level > li > a:after {
+	content:"";
+	display:block;
+	position:absolute;
+	left:20px;
+	width:1px;
+	height:100%;
+	background:#ff0000;
+	top:0px;
+	z-index:10;
+}
+.nav-second-level  > li:last-child > a:after,
+.nav-third-level  > li:last-child > a:after {
+	height:50%;
+}
+.nav-third-level > li > a:after,
+.nav-third-level > li > a:before  {
+	left:40px;
+}
+.navbar-side {
+	border:none;
+	background-color: #202020;
+	
+}
+.navbar-cls-top {
+	background:#4D4D4D;
+	border-bottom:none;
+	
+}
+.navbar-cls-top .navbar-brand:hover {
+
+background: #C90000;
+color:#fff;
+
+}
+
+.navbar-default {
+border:0px solid black;
+     
+}
+.navbar-header {
+    background: #A70303;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+background-color: #B40101;
+}
+.navbar-default .navbar-toggle {
+border-color: #fff;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+background-color: #FFF;
+}
+.nav > li > a > i {
+    margin-right:10px;
+}
+/*==============================================
+    UI ELEMENTS STYLES     
+    =============================================*/
+.btn-circle {
+width: 50px;
+height: 50px;
+padding: 6px 0;
+ -webkit-border-radius: 25px;
+-moz-border-radius: 25px;
+border-radius: 25px;
+text-align: center;
+font-size: 12px;
+line-height: 1.428571429;
+}
+
+/*==============================================
+    MEDIA QUERIES     
+    =============================================*/
+ 
+ @media(min-width:768px) {
+     #page-wrapper{
+               margin: 0 0 0 260px;
+        padding: 15px 30px;
+        min-height: 1200px;
+		
+    }
+	
+	
+    .navbar-side {
+        z-index: 1;
+        position: absolute;
+        width: 260px;
+    }
+
+   .navbar {
+ border-radius: 0px; 
+}
+   
+}
+
+.table-striped th , .table-striped td{
+    text-align: center;
+    }
+.table-striped table.table-bordered tbody td{
+    vertical-align: middle;
+}
+
+.table-striped tr td, .table-striped tr th{text-align:left;}
+.table-striped tr td:first-child {
+  width: 20%;
+}
+
+#dataTables-example tr td, #dataTables-example tr th {
+  text-align: center;
+  vertical-align: middle;
+}
+.login_page_wrapper{background:#202020;}
+.login_page_wrapper .panel-heading {
+  background: none repeat scroll 0 0 #333 !important;
+  border-radius: 0;
+  color: #fff !important;
+  font-size: 17px;
+  height: 55px;
+  line-height: 30px;
+  text-align: center;
+}
+.login_page_wrapper .panel{border-radius: 0;}
+.login_btn {
+  background: none repeat scroll 0 0 #fd4239;
+  border-radius: 0 !important;
+  color: #fff;
+  font-size: 14px !important;
+  text-transform: uppercase;
+}
+textarea { resize: vertical;}
+
+/* for ajax loading */
+
+.loading{
+ width:100%;
+ height:100%;
+ position:fixed;
+ top:0;
+ left:0;
+ display:table;
+ background-color:rgba(0,0,0,.6);
+ vertical-align:middle;
+ text-align:center;
+ z-index: 9999;
+ }
+.loading_icon{
+ width:100px;
+ height:100px;
+ display:table-cell;
+ vertical-align:middle;
+ margin:0 auto;
+ }
+.loading_icon span.fa{
+ font-size:100px;
+ color:#000;
+ }
+/* for ajax loading */
+
+
+.bank_method_wrap {
+  background: none repeat scroll 0 0 #FFFFFF; position:relative;
+}
+.bank_method_wrap .tab-content{display:table-cell;}
+.bank_metho_tabs {
+  border: 1px solid #DDDDDD;
+  display: table-cell;
+  min-width: 200px; float:left;
+  list-style-type: none;
+}
+.bank_metho_tabs li a {
+  border-bottom: 1px solid #DDDDDD;
+  color: #333333;
+  display: block;
+  font-size: 16px;
+  padding: 10px 14px;
+}
+.bank_metho_tabs li:last-child a{border-bottom:none;}
+.bank_metho_tabs .active a{position:relative; }
+.bank_method_wrap .tab-content {
+  border: 1px solid #DDDDDD;
+  display: table-cell;
+  float: left;
+  left: -1px;
+  min-height: 100px;
+  padding: 20px;
+  position: relative;
+  width: 81.9%;
+}
+.bank_metho_tabs .active a:after {
+  background: none repeat scroll 0 0 #FFFFFF;
+  content: "";
+  height: 100%;
+  position: absolute;
+  right: -3px;
+  top: 0;
+  width: 7px;
+  z-index: 999;
+}
+.bank_metho_tabs li a span {
+  color: #999999;
+  display: inline-block;
+  position: relative;
+  top: 1px;
+  width: 29px;
+}
+
+
+/** css start for 20 nov  for header notification**/
+.right_top_noti {
+    float: right;
+    padding-right: 30px;
+    padding-top: 14px;
+}
+.notifi_main , .logout_btn {
+    display: inline-block;
+    vertical-align: top;
+}
+
+/* CSS used here will be applied after bootstrap.css */
+
+.notifi_main .dropdown {
+    display:inline-block;
+    margin-left:20px;
+    padding:5px;
+  }
+.notifi_main .glyphicon-bell {
+   
+    font-size:1.5rem;
+  }
+  .notifi_main .notifications {
+   min-width:420px; 
+  }
+  .notifi_main .notifications-wrapper {
+     overflow:auto;
+      max-height:280px;
+    }
+.notifi_main  .menu-title {
+     color:#ff7788;
+     font-size:1.5rem;
+      display:inline-block;
+      }
+ .notifi_main .glyphicon-circle-arrow-right {
+      margin-left:10px;     
+   }
+.notifi_main .notification-heading, .notification-footer  {
+  padding:2px 10px;
+       }
+.notifi_main .dropdown-menu.divider {
+  margin:5px 0;          
+  }
+.notifi_main .item-title {
+  font-size:1.3rem;
+ color:#000;
+}
+.notifi_main .notifications a.content {
+ text-decoration:none;
+  border-bottom: 1px solid #ddd;
+  display: block;
+}
+.notifi_main .notifications a:focus{outline: none;}
+.notifi_main .notification-item {
+   padding:10px;
+ 
+ }
+.notifi_main .notifications a.content:last-child {
+  border-bottom: none;
+ }
+ .notifi_main .notifications a.content:first-child {
+  border-top: 1px solid #ddd;
+ }
+
+.notifi_main .dropdown > a i {
+   color: #fff;
+    font-size: 20px;
+    line-height: normal;
+    padding-right: 10px;
+}
+.notifi_main .dropdown > a{display: block; position: relative;}
+.notifi_main .dropdown-menu{
+  right: 0px;
+  left: auto;
+}
+.noti_photo{
+  float: left;width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 1px solid #333;
+  overflow: hidden;
+}
+.noti_info{
+  float: left;
+  width: 85%;
+  padding-left: 15px;
+}
+.noti_head h3{float: left;width: 70%; font-size: 16px; margin: 0px 0px 5px}
+.noti_date{float: right;width: 30%; font-size: 12px; text-align: right; color: #666;}
+.noti_info p{font-size: 14px; padding:0px; color: #666; margin: 0px;}
+.noti_count{
+  background: red none repeat scroll 0 0;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 12px;
+    height: 19px;
+    padding: 1px 3px;
+    position: absolute;
+    right: -3px;
+    text-align: center;
+    top: -8px;
+    width: auto;
+}
+a.noti_read{
+  background: #ddd;
+}
+
